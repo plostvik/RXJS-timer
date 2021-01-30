@@ -1,0 +1,100 @@
+html,
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+header {
+  flex: 0 0 auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-style: normal;
+}
+
+.container {
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 5rem;
+  padding: 3rem 5rem;
+}
+
+.time {
+  font-size: 8rem;
+  margin-bottom: 1rem;
+  color: tomato;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  padding: 0.8rem 2rem;
+  border: none;
+  margin-left: 0.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: all 300ms ease-in-out;
+}
+
+.start {
+  background: #3ed927;
+  color: white;
+}
+
+.start:hover {
+  background: #3ab427;
+}
+
+.wait {
+  color: white;
+  background: #dbdb04;
+}
+
+.wait:hover {
+  background: #c5c546;
+}
+
+.reset {
+  background: #fd7171;
+  color: white;
+}
+
+.reset:hover {
+  background: #c46666;
+}
