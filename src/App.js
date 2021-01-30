@@ -57,10 +57,10 @@ function App() {
 
     const click = waitObserver.pipe(
       buffer(bufferTime),
-      map(list => {
-        return list.length;
+      map(clicks => {
+        return clicks.length;
       }),
-      filter(x => x === 2),
+      filter(clicksDone => clicksDone === 2),
     );
 
     const clickSub = click.subscribe(() => {
