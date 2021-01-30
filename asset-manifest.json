@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/RXJS-timer/static/css/main.97395a18.chunk.css",
-    "main.js": "/RXJS-timer/static/js/main.78b2cc6c.chunk.js",
-    "main.js.map": "/RXJS-timer/static/js/main.78b2cc6c.chunk.js.map",
-    "runtime-main.js": "/RXJS-timer/static/js/runtime-main.cf8b5b26.js",
-    "runtime-main.js.map": "/RXJS-timer/static/js/runtime-main.cf8b5b26.js.map",
-    "static/js/2.89784b5a.chunk.js": "/RXJS-timer/static/js/2.89784b5a.chunk.js",
-    "static/js/2.89784b5a.chunk.js.map": "/RXJS-timer/static/js/2.89784b5a.chunk.js.map",
-    "index.html": "/RXJS-timer/index.html",
-    "static/css/main.97395a18.chunk.css.map": "/RXJS-timer/static/css/main.97395a18.chunk.css.map",
-    "static/js/2.89784b5a.chunk.js.LICENSE.txt": "/RXJS-timer/static/js/2.89784b5a.chunk.js.LICENSE.txt"
+    "main.css": "/rxjstimer/static/css/main.97395a18.chunk.css",
+    "main.js": "/rxjstimer/static/js/main.78b2cc6c.chunk.js",
+    "main.js.map": "/rxjstimer/static/js/main.78b2cc6c.chunk.js.map",
+    "runtime-main.js": "/rxjstimer/static/js/runtime-main.5d65132e.js",
+    "runtime-main.js.map": "/rxjstimer/static/js/runtime-main.5d65132e.js.map",
+    "static/js/2.89784b5a.chunk.js": "/rxjstimer/static/js/2.89784b5a.chunk.js",
+    "static/js/2.89784b5a.chunk.js.map": "/rxjstimer/static/js/2.89784b5a.chunk.js.map",
+    "index.html": "/rxjstimer/index.html",
+    "static/css/main.97395a18.chunk.css.map": "/rxjstimer/static/css/main.97395a18.chunk.css.map",
+    "static/js/2.89784b5a.chunk.js.LICENSE.txt": "/rxjstimer/static/js/2.89784b5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf8b5b26.js",
+    "static/js/runtime-main.5d65132e.js",
     "static/js/2.89784b5a.chunk.js",
     "static/css/main.97395a18.chunk.css",
     "static/js/main.78b2cc6c.chunk.js"
